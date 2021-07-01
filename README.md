@@ -1,4 +1,4 @@
 # Colors-project
-You can see here various colors with there heaxdecimal code
+You can see and select here various colors with there hexadecimal code
 
  https://udaytyagi.github.io/Colors-project/
